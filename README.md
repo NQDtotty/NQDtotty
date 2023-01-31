@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! You can call me Totty
+
+## This is my Linkedin account
+https://www.linkedin.com/in/nguyen-anh-thoai-84756b242/
 
 <!--
 **NQDtotty/NQDtotty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
