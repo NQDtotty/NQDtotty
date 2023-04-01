@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Thoại</h1>
 <h3 align="center">A Software Engineer</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nqdtotty&label=Profile%20views&color=0e75b6&style=flat" alt="nqdtotty" /> </p>
-<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <p align="center"> 
