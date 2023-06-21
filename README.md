@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Thoại</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Software Developer</h3>
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
